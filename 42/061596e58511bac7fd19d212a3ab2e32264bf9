@@ -1,0 +1,25 @@
+.github/actions/setup-build-env/action.yml
+  h_8d23b84102cdcd 16-24
+  s_faa126b97b3bae::t_974a8a61c7ad3e 25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.4",
+  "base_commit_sha": "42061596e58511bac7fd19d212a3ab2e32264bf9",
+  "prompts": {},
+  "humans": {
+    "h_8d23b84102cdcd": {
+      "author": "Chaser Huang <huangkangjing@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_faa126b97b3bae": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f8bfd-2690-7519-b09f-0baa62bc8d9a",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "Chaser Huang <huangkangjing@gmail.com>"
+    }
+  }
+}
